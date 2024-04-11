@@ -2,7 +2,7 @@
 html{
   font-family: Arial, Helvetica, sans-serif;
   margin: 0rem 2rem;
-  background-color: #42c6ff;
+  background-color: #ff8080;
 }
 
 /* Banner image*/
@@ -48,7 +48,7 @@ nav li:hover{
 }
 
 nav #active{
-  background-color: darkgreen;
+  background-color: green;
 }
 
 /* Styling for the main section*/
